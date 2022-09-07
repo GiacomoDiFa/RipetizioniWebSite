@@ -117,7 +117,7 @@ ul{
       font-size: 2.5rem;
       color: white;
       overflow: hidden;
-      border-right: .15em solid orange;
+      border-right: .15em solid red;
       white-space: nowrap; 
       width: 0;
       animation: 
@@ -127,7 +127,7 @@ ul{
       font-size: 2.5rem;
       color: white; 
       overflow: hidden;
-      border-right: .15em solid orange;
+      border-right: .15em solid green;
       white-space: nowrap; 
       width: 0;
       animation: 
@@ -138,7 +138,7 @@ ul{
       font-size: 2.5rem;
       color: white; 
       overflow: hidden;
-      border-right: .15em solid orange; 
+      border-right: .15em solid blue; 
       white-space: nowrap; 
       width: 0;
       animation: 
@@ -149,7 +149,7 @@ ul{
     font-size: 2.5rem;
     color: white; 
     overflow: hidden;
-    border-right: .15em solid orange; 
+    border-right: .15em solid yellow; 
     white-space: nowrap; 
     width: 0;
     animation: 
